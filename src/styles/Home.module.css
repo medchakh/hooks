@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+    gap: 2rem;
+}
+
+.item {
+  background-color: royalblue;
+  padding: 2rem 4rem;
+}
